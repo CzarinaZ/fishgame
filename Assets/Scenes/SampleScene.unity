@@ -392,8 +392,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.009692431, y: -0.795894}
-  m_Size: {x: 5.3609376, y: 2.9431036}
+  m_Offset: {x: 0.008907793, y: -0.37555048}
+  m_Size: {x: 0.956128, y: 0.3555071}
   m_Direction: 1
 --- !u!212 &770882306
 SpriteRenderer:
@@ -442,7 +442,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 6fcb0de19e466a74bafb5fff3aa1800d, type: 3}
+  m_Sprite: {fileID: 4956385319277824933, guid: 92fbb2e81649b6c4890bda542d4340c2, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -463,7 +463,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.99, y: -1.87, z: 0}
-  m_LocalScale: {x: 0.4, y: 0.5, z: 1}
+  m_LocalScale: {x: 3.12, y: 3.2499998, z: 6.4999995}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -713,8 +713,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.09640516, y: -0.86478144}
-  m_Size: {x: 8.240292, y: 1.8403662}
+  m_Offset: {x: 0.012400323, y: -0.34645408}
+  m_Size: {x: 1.5453124, y: 0.44266874}
   m_Direction: 1
 --- !u!212 &2062757426
 SpriteRenderer:
@@ -763,7 +763,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 44a834c2bec525a4893784a04e95fe5d, type: 3}
+  m_Sprite: {fileID: 4794423378814781664, guid: 189a4aea7373edc4d8cc586a39580d1b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -784,7 +784,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.87, y: 1.25, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.6, z: 1}
+  m_LocalScale: {x: 3.12, y: 3.2499998, z: 6.4999995}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
